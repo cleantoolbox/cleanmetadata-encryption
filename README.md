@@ -38,6 +38,14 @@ python test_encrypt.py
 
 You can also import `encrypt_file()` and `decrypt_file()` into your own workflows.
 
+## 🧾 Compliance Notice
+
+This software and associated service comply with U.S. export control laws.
+
+Use is prohibited by any person or entity located in or controlled from a country subject to comprehensive U.S. trade sanctions, including but not limited to: Cuba, Iran, North Korea, Syria, and the Crimea, Donetsk, and Luhansk regions of Ukraine.
+
+We actively block usage from sanctioned regions to comply with U.S. law and to fulfill Technology and Software under U.S. Export Administration Regulations (TSU) obligations.
+
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE). Use freely with attribution. No warranty.
